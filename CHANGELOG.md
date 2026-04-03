@@ -9,6 +9,28 @@ Todas as mudancas importantes do Recrutador HUD estao documentadas aqui.
 
 ---
 
+## 1.0.1-alpha — 2026-04-03
+
+### EN - Version Display & CI Improvements
+
+#### What's New
+- **Version label in UI** — The current app version is now visible in the HUD status bar and Smart Sidecar header. Clicking it opens the release notes for that version on GitHub.
+
+#### Improvements
+- **Updated CI pipeline** — Upgraded GitHub Actions to v5 (Node.js 24) to eliminate deprecation warnings
+
+---
+
+### PT - Versao Visivel & Melhorias no CI
+
+#### Novidades
+- **Versao visivel na interface** — A versao atual do app agora aparece na barra de status do HUD e no cabecalho do Smart Sidecar. Clicar nela abre as notas da versao no GitHub.
+
+#### Melhorias
+- **Pipeline de CI atualizado** — GitHub Actions atualizadas para v5 (Node.js 24) para eliminar avisos de depreciacao
+
+---
+
 ## 1.0.0-alpha — 2026-04-03
 
 ### EN - First Alpha Release
