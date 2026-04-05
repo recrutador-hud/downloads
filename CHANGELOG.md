@@ -9,6 +9,24 @@ Todas as mudancas importantes do Recrutador HUD estao documentadas aqui.
 
 ---
 
+## 1.0.2-alpha — 2026-04-05
+
+### EN - Audio Quality Fix & Version Display
+
+#### Bug Fixes
+- **Windows audio clicking fixed** — Eliminated clicking and noise artifacts during audio capture on Windows. The issue was caused by stateless resampling that created discontinuities at audio chunk boundaries.
+- **Version label now shows pre-release tag** — The version displayed in the UI now correctly shows the full version including pre-release suffixes (e.g., "v1.0.2-alpha" instead of "v1.0.2").
+
+---
+
+### PT - Correcao de Qualidade de Audio & Exibicao de Versao
+
+#### Correcoes
+- **Cliques no audio do Windows corrigidos** — Eliminados cliques e ruidos durante a captura de audio no Windows. O problema era causado por reamostragem sem estado que criava descontinuidades nas bordas dos blocos de audio.
+- **Versao agora mostra tag de pre-release** — A versao exibida na interface agora mostra corretamente a versao completa incluindo sufixos de pre-release (ex: "v1.0.2-alpha" ao inves de "v1.0.2").
+
+---
+
 ## 1.0.1-alpha — 2026-04-03
 
 ### EN - Version Display & CI Improvements
