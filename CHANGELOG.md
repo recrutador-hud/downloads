@@ -9,6 +9,22 @@ Todas as mudancas importantes do Recrutador HUD estao documentadas aqui.
 
 ---
 
+## 1.0.5-alpha — 2026-04-05
+
+### EN - Auto-Update Verification
+
+#### Improvements
+- **No functional changes** — This release exists solely to verify that the auto-update mechanism works correctly from v1.0.4-alpha
+
+---
+
+### PT - Verificacao de Atualizacao Automatica
+
+#### Melhorias
+- **Sem mudancas funcionais** — Esta versao existe apenas para verificar que o mecanismo de atualizacao automatica funciona corretamente a partir da v1.0.4-alpha
+
+---
+
 ## 1.0.4-alpha — 2026-04-05
 
 ### EN - Auto-Update Fix
