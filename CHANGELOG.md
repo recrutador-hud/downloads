@@ -9,6 +9,22 @@ Todas as mudancas importantes do Recrutador HUD estao documentadas aqui.
 
 ---
 
+## 1.0.4-alpha — 2026-04-05
+
+### EN - Auto-Update Fix
+
+#### Bug Fixes
+- **Auto-updater not working** — Fixed the auto-update service failing to connect to GitHub due to an invalid repository URL, preventing the app from detecting and downloading new versions
+
+---
+
+### PT - Correcao de Atualizacao Automatica
+
+#### Correcoes
+- **Atualizador automatico nao funcionava** — Corrigido o servico de atualizacao automatica que falhava ao conectar ao GitHub devido a uma URL de repositorio invalida, impedindo o app de detectar e baixar novas versoes
+
+---
+
 ## 1.0.3-alpha — 2026-04-05
 
 ### EN - Auto-Update Diagnostics
