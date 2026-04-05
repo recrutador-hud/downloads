@@ -9,6 +9,24 @@ Todas as mudancas importantes do Recrutador HUD estao documentadas aqui.
 
 ---
 
+## 1.0.3-alpha — 2026-04-05
+
+### EN - Auto-Update Diagnostics
+
+#### Bug Fixes
+- **Auto-updater silent failures** — Fixed an issue where the auto-update service could fail silently at startup without logging any errors, making it impossible to diagnose update problems
+- **Shutdown error on exit** — Fixed a crash during app shutdown caused by the update service being disposed twice
+
+---
+
+### PT - Diagnostico de Atualizacao Automatica
+
+#### Correcoes
+- **Falhas silenciosas do atualizador automatico** — Corrigido um problema em que o servico de atualizacao automatica podia falhar silenciosamente na inicializacao sem registrar erros, impossibilitando o diagnostico de problemas de atualizacao
+- **Erro ao fechar o aplicativo** — Corrigido um crash durante o encerramento do aplicativo causado pelo servico de atualizacao ser descartado duas vezes
+
+---
+
 ## 1.0.2-alpha — 2026-04-05
 
 ### EN - Audio Quality Fix & Version Display
