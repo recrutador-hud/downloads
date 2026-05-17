@@ -9,6 +9,44 @@ Todas as mudancas importantes do Recrutador HUD estao documentadas aqui.
 
 ---
 
+## 1.0.6-alpha — 2026-05-17
+
+### EN - New Look, Smarter Audio
+
+This release is a significant step forward in how the HUD looks and feels. The entire interface has been redesigned from the ground up, with a new visual language that makes it easier to read at a glance during a live interview.
+
+#### What's New
+- **Redesigned interface** -- Every panel, tab, and control has been reworked. The HUD now has a cleaner layout, better use of space, and a visual style that holds up under pressure
+- **Animated prompt display** -- The main prompt area now shows live visual states: a waveform while listening, a spark animation while generating, a typewriter reveal when a prompt is ready, and a smooth fade when it is consumed
+- **Prompt history strip** -- Past prompts appear in a scrollable strip at the bottom of the HUD, with an expandable flyout to review what has already been covered
+- **Speaker identification** -- The HUD now automatically distinguishes interviewer speech from candidate speech, without relying on cloud diarization
+- **Audio validation** -- A new step before the interview starts checks that your microphone and system audio are working correctly, so there are no surprises once you are live
+- **Diagnostics menu** -- A built-in diagnostics panel is now accessible during a session to help investigate audio or connection issues on the spot
+- **Integrity insights** -- Insights flagged for integrity now stand out visually, with dedicated styling and per-signal action labels
+
+#### Bug Fixes
+- **App crash during connection** -- Fixed a crash that could occur when the session ended while the HUD was still in the process of connecting
+
+---
+
+### PT - Nova Aparencia, Audio Mais Inteligente
+
+Esta versao representa um avanco significativo na aparencia e no funcionamento do HUD. Toda a interface foi redesenhada do zero, com uma nova linguagem visual que facilita a leitura rapida durante uma entrevista ao vivo.
+
+#### Novidades
+- **Interface redesenhada** -- Cada painel, aba e controle foi reformulado. O HUD agora tem um layout mais limpo, melhor aproveitamento do espaco e um estilo visual que se sustenta sob pressao
+- **Display de prompts animado** -- A area principal de prompts agora exibe estados visuais em tempo real: forma de onda enquanto escuta, animacao de faiscas enquanto gera, revelacao em maquina de escrever quando o prompt esta pronto, e fade suave quando e consumido
+- **Historico de prompts** -- Os prompts anteriores aparecem em uma faixa rolavel na parte inferior do HUD, com um painel expansivel para revisar o que ja foi coberto
+- **Identificacao de falantes** -- O HUD agora distingue automaticamente a fala do entrevistador da fala do candidato, sem depender de diarizacao em nuvem
+- **Validacao de audio** -- Uma nova etapa antes de a entrevista comecar verifica se o microfone e o audio do sistema estao funcionando corretamente, evitando surpresas durante a sessao ao vivo
+- **Menu de diagnosticos** -- Um painel de diagnosticos integrado esta acessivel durante a sessao para investigar problemas de audio ou conexao na hora
+- **Insights de integridade** -- Insights sinalizados para integridade agora se destacam visualmente, com estilo dedicado e rotulos de acao por sinal
+
+#### Correcoes
+- **Queda do app durante conexao** -- Corrigida uma queda que podia ocorrer quando a sessao era encerrada enquanto o HUD ainda estava no processo de conexao
+
+---
+
 ## 1.0.5-alpha — 2026-04-05
 
 ### EN - Auto-Update Verification
