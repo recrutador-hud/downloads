@@ -9,6 +9,22 @@ Todas as mudancas importantes do Recrutador HUD estao documentadas aqui.
 
 ---
 
+## 1.0.7-alpha — 2026-05-19
+
+### EN - Production Endpoints Update
+
+#### Improvements
+- **Updated production endpoints** -- The HUD now connects to the new primary domain at recrutador.com for both the API and web app
+
+---
+
+### PT - Atualizacao dos Enderecos de Producao
+
+#### Melhorias
+- **Enderecos de producao atualizados** -- O HUD agora se conecta ao novo dominio principal em recrutador.com tanto para a API quanto para o app web
+
+---
+
 ## 1.0.6-alpha — 2026-05-17
 
 ### EN - New Look, Smarter Audio
