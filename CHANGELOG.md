@@ -9,6 +9,24 @@ Todas as mudancas importantes do Recrutador HUD estao documentadas aqui.
 
 ---
 
+## 1.0.8-alpha -- 2026-05-25
+
+### EN - New Insight Signals
+
+#### What's New
+- **AI assistance check** -- Each insight card now has a "Verify" button to flag and re-check an answer that may have been produced with outside AI help
+- **Contradiction alerts** -- The Insights panel now highlights when a candidate's statement conflicts with something they said earlier in the interview
+
+---
+
+### PT - Novos Sinais de Avaliacao
+
+#### Novidades
+- **Verificacao de uso de IA** -- Cada cartao de insight agora tem um botao "Verificar" para sinalizar e reanalisar uma resposta que possa ter sido produzida com ajuda externa de IA
+- **Alertas de contradicao** -- O painel de Insights agora destaca quando uma declaracao do candidato conflita com algo dito anteriormente na entrevista
+
+---
+
 ## 1.0.7-alpha — 2026-05-19
 
 ### EN - Production Endpoints Update
