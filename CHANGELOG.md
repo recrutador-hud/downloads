@@ -9,6 +9,32 @@ Todas as mudancas importantes do Recrutador HUD estao documentadas aqui.
 
 ---
 
+## 1.0.9-alpha -- 2026-06-03
+
+### EN - Sharper Live Suggestions
+
+#### Improvements
+- **Capture feedback** -- The active suggestion now shows a clear visual and a countdown bar while it is being used, so you always know when a question has been picked up
+- **Skip per suggestion** -- The Skip button now applies to the individual suggestion you are looking at, making it easier to move past one without affecting the rest
+- **Cleaner suggestion list** -- The past and queued suggestion strips were polished for better readability during a live interview
+
+#### Bug Fixes
+- **Reliable suggestion delivery** -- Fixed cases where a suggestion could stall or fail to update its state mid-interview
+
+---
+
+### PT - Sugestoes ao Vivo Mais Precisas
+
+#### Melhorias
+- **Retorno de captura** -- A sugestao ativa agora mostra um visual claro e uma barra de contagem regressiva enquanto esta sendo usada, para voce sempre saber quando uma pergunta foi aproveitada
+- **Pular por sugestao** -- O botao Pular agora se aplica a sugestao individual que voce esta vendo, facilitando avancar sem afetar as demais
+- **Lista de sugestoes mais limpa** -- As faixas de sugestoes anteriores e em fila foram ajustadas para melhor leitura durante a entrevista ao vivo
+
+#### Correcoes
+- **Entrega confiavel de sugestoes** -- Corrigidos casos em que uma sugestao podia travar ou nao atualizar seu estado no meio da entrevista
+
+---
+
 ## 1.0.8-alpha -- 2026-05-25
 
 ### EN - New Insight Signals
