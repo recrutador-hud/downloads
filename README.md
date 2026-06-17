@@ -35,7 +35,7 @@ Apos a primeira instalacao, o app **se atualiza automaticamente** — nao precis
 <details>
 <summary><strong>English</strong></summary>
 
-Recrutador HUD is a lightweight desktop companion for the [Recrutador](https://seurecrutador.com.br) recruitment intelligence platform. It runs alongside your video call and provides real-time assistance during interviews:
+Recrutador HUD is a lightweight desktop companion for the [Recrutador](https://recrutador.com) recruitment intelligence platform. It runs alongside your video call and provides real-time assistance during interviews:
 
 - **Audio capture** — Records microphone and system audio simultaneously using native platform APIs
 - **Live transcription** — Streams audio to Deepgram for instant speech-to-text
@@ -51,7 +51,7 @@ The HUD is a **thin client** — all intelligence lives on the backend. No data 
 <details>
 <summary><strong>Portugues</strong></summary>
 
-O Recrutador HUD e um aplicativo desktop leve que acompanha a plataforma de inteligencia em recrutamento [Recrutador](https://seurecrutador.com.br). Ele roda junto com sua videochamada e oferece assistencia em tempo real durante entrevistas:
+O Recrutador HUD e um aplicativo desktop leve que acompanha a plataforma de inteligencia em recrutamento [Recrutador](https://recrutador.com). Ele roda junto com sua videochamada e oferece assistencia em tempo real durante entrevistas:
 
 - **Captura de audio** — Grava microfone e audio do sistema simultaneamente usando APIs nativas da plataforma
 - **Transcricao ao vivo** — Transmite audio para o Deepgram para transcricao instantanea
@@ -121,6 +121,6 @@ Veja [CHANGELOG.md](CHANGELOG.md) para o historico completo de versoes em Ingles
 
 <div align="center">
 
-**[seurecrutador.com.br](https://seurecrutador.com.br)**
+**[recrutador.com](https://recrutador.com)**
 
 </div>
